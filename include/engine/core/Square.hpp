@@ -5,7 +5,7 @@
 class Square {
 public:
     
-    using Index = std::uint16_t;
+    using Index = std::uint8_t;
 
     constexpr Square() = default;
 
